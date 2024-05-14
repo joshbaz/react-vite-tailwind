@@ -1,4 +1,4 @@
-# Vite-React-Tailwind 
+# Nyati-Vite-React-Tailwind 
 ## Initial Setup
 
 
